@@ -5,15 +5,15 @@
     "main.js.map": "https://hayana85.github.io/csb-br7oyy/static/js/main.55723206.chunk.js.map",
     "runtime-main.js": "https://hayana85.github.io/csb-br7oyy/static/js/runtime-main.8a91323c.js",
     "runtime-main.js.map": "https://hayana85.github.io/csb-br7oyy/static/js/runtime-main.8a91323c.js.map",
-    "static/js/2.ff54e974.chunk.js": "https://hayana85.github.io/csb-br7oyy/static/js/2.ff54e974.chunk.js",
-    "static/js/2.ff54e974.chunk.js.map": "https://hayana85.github.io/csb-br7oyy/static/js/2.ff54e974.chunk.js.map",
+    "static/js/2.795e6ebd.chunk.js": "https://hayana85.github.io/csb-br7oyy/static/js/2.795e6ebd.chunk.js",
+    "static/js/2.795e6ebd.chunk.js.map": "https://hayana85.github.io/csb-br7oyy/static/js/2.795e6ebd.chunk.js.map",
     "index.html": "https://hayana85.github.io/csb-br7oyy/index.html",
     "static/css/main.daa80b9e.chunk.css.map": "https://hayana85.github.io/csb-br7oyy/static/css/main.daa80b9e.chunk.css.map",
-    "static/js/2.ff54e974.chunk.js.LICENSE.txt": "https://hayana85.github.io/csb-br7oyy/static/js/2.ff54e974.chunk.js.LICENSE.txt"
+    "static/js/2.795e6ebd.chunk.js.LICENSE.txt": "https://hayana85.github.io/csb-br7oyy/static/js/2.795e6ebd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8a91323c.js",
-    "static/js/2.ff54e974.chunk.js",
+    "static/js/2.795e6ebd.chunk.js",
     "static/css/main.daa80b9e.chunk.css",
     "static/js/main.55723206.chunk.js"
   ]
